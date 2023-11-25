@@ -2,7 +2,7 @@
 -  Interested in learning new any new stuff regarding computer
 -  Currently learning C,C++
 -  Looking to collaborate on anything i can help
--  This is my college based github personal github -> @Shadow-monarch23
+-  This is my college based github personal github -> <a link="https://github.com/Shadow-monarch23">@Shadow-monarch23</a>
 -  Socials:<br>
    email - williamkafle@gmail.com <br> 
    linkedin - www.linkedin.com/in/akash-kafle-7b8392279
